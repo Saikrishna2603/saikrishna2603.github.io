@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.79aa63c8.chunk.css",
-    "main.js": "./static/js/main.ff837af7.chunk.js",
-    "main.js.map": "./static/js/main.ff837af7.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.fd7c97fa.js",
-    "runtime-main.js.map": "./static/js/runtime-main.fd7c97fa.js.map",
-    "static/js/2.8e925a5e.chunk.js": "./static/js/2.8e925a5e.chunk.js",
-    "static/js/2.8e925a5e.chunk.js.map": "./static/js/2.8e925a5e.chunk.js.map",
+    "main.css": "./static/css/main.79538ca2.chunk.css",
+    "main.js": "./static/js/main.42e75e1e.chunk.js",
+    "main.js.map": "./static/js/main.42e75e1e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.84d29c16.js",
+    "runtime-main.js.map": "./static/js/runtime-main.84d29c16.js.map",
+    "static/js/2.d6d0b3be.chunk.js": "./static/js/2.d6d0b3be.chunk.js",
+    "static/js/2.d6d0b3be.chunk.js.map": "./static/js/2.d6d0b3be.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.00be473dd85a17e27160a692a943bd22.js": "./precache-manifest.00be473dd85a17e27160a692a943bd22.js",
+    "precache-manifest.e69bf18d7bd608e4de7a99cb3d1153d7.js": "./precache-manifest.e69bf18d7bd608e4de7a99cb3d1153d7.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.79aa63c8.chunk.css.map": "./static/css/main.79aa63c8.chunk.css.map",
-    "static/js/2.8e925a5e.chunk.js.LICENSE.txt": "./static/js/2.8e925a5e.chunk.js.LICENSE.txt",
+    "static/css/main.79538ca2.chunk.css.map": "./static/css/main.79538ca2.chunk.css.map",
+    "static/js/2.d6d0b3be.chunk.js.LICENSE.txt": "./static/js/2.d6d0b3be.chunk.js.LICENSE.txt",
     "static/media/Accellor.png": "./static/media/Accellor.db498a4f.png",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Aws.png": "./static/media/Aws.0381b945.png",
+    "static/media/Cognizant.png": "./static/media/Cognizant.7f415be6.png",
+    "static/media/Genpact.png": "./static/media/Genpact.a160a3d8.png",
     "static/media/Lincoln.png": "./static/media/Lincoln.34bfe4ba.png",
     "static/media/Ms_logo.jpg": "./static/media/Ms_logo.1355dddb.jpg",
     "static/media/SfdcAdmin.png": "./static/media/SfdcAdmin.60edc98a.png",
@@ -32,14 +34,14 @@
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
     "static/media/mobicure.png": "./static/media/mobicure.6d4a36b9.png",
     "static/media/portfolio.gif": "./static/media/portfolio.414dfbd9.gif",
-    "static/media/sk.jpeg": "./static/media/sk.82f07723.jpeg",
+    "static/media/sk.jpeg": "./static/media/sk.6931d784.jpeg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd7c97fa.js",
-    "static/js/2.8e925a5e.chunk.js",
-    "static/css/main.79aa63c8.chunk.css",
-    "static/js/main.ff837af7.chunk.js"
+    "static/js/runtime-main.84d29c16.js",
+    "static/js/2.d6d0b3be.chunk.js",
+    "static/css/main.79538ca2.chunk.css",
+    "static/js/main.42e75e1e.chunk.js"
   ]
 }
