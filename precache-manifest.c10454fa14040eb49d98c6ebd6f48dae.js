@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f67fe14f87d0b291ab62ab558244ccff",
+    "revision": "887ef1c942e6862837336f4aecb05e20",
     "url": "./index.html"
   },
   {
-    "revision": "9e025370998483a1828e",
+    "revision": "f010b8626cf50d8ee1cb",
     "url": "./static/css/main.79538ca2.chunk.css"
   },
   {
-    "revision": "887b87ab9bfac0b8da65",
-    "url": "./static/js/2.d6d0b3be.chunk.js"
+    "revision": "b4267e221ae13a981ea3",
+    "url": "./static/js/2.dd069e72.chunk.js"
   },
   {
     "revision": "7d7354b1d5c573f063b555920f297f85",
-    "url": "./static/js/2.d6d0b3be.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.dd069e72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e025370998483a1828e",
-    "url": "./static/js/main.5fceb1a9.chunk.js"
+    "revision": "f010b8626cf50d8ee1cb",
+    "url": "./static/js/main.db63b882.chunk.js"
   },
   {
     "revision": "38d598e85890cf0efe1a",
@@ -182,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "./static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "993385942738b00ef0e88138e9e7422d",
+    "url": "./static/media/jefferies.99338594.png"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
