@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.75fc1881.chunk.css",
-    "main.js": "/static/js/main.d30b0993.chunk.js",
-    "main.js.map": "/static/js/main.d30b0993.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bc83c33b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bc83c33b.js.map",
-    "static/js/2.973c93ff.chunk.js": "/static/js/2.973c93ff.chunk.js",
-    "static/js/2.973c93ff.chunk.js.map": "/static/js/2.973c93ff.chunk.js.map",
+    "main.css": "/static/css/main.13527d27.chunk.css",
+    "main.js": "/static/js/main.6e52f2cd.chunk.js",
+    "main.js.map": "/static/js/main.6e52f2cd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.94592b4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.94592b4e.js.map",
+    "static/js/2.06fcfd93.chunk.js": "/static/js/2.06fcfd93.chunk.js",
+    "static/js/2.06fcfd93.chunk.js.map": "/static/js/2.06fcfd93.chunk.js.map",
+    "static/js/3.ba82f9d8.chunk.js": "/static/js/3.ba82f9d8.chunk.js",
+    "static/js/3.ba82f9d8.chunk.js.map": "/static/js/3.ba82f9d8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5c7d4ebe02343e5b571fbab38103ef0a.js": "/precache-manifest.5c7d4ebe02343e5b571fbab38103ef0a.js",
+    "precache-manifest.893c1797c09e739c0898d0ef6dd6fc0f.js": "/precache-manifest.893c1797c09e739c0898d0ef6dd6fc0f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.75fc1881.chunk.css.map": "/static/css/main.75fc1881.chunk.css.map",
-    "static/js/2.973c93ff.chunk.js.LICENSE.txt": "/static/js/2.973c93ff.chunk.js.LICENSE.txt",
+    "static/css/main.13527d27.chunk.css.map": "/static/css/main.13527d27.chunk.css.map",
+    "static/js/2.06fcfd93.chunk.js.LICENSE.txt": "/static/js/2.06fcfd93.chunk.js.LICENSE.txt",
     "static/media/Accellor.png": "/static/media/Accellor.db498a4f.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Aws.png": "/static/media/Aws.0381b945.png",
@@ -19,6 +21,7 @@
     "static/media/Genpact.png": "/static/media/Genpact.a160a3d8.png",
     "static/media/Lincoln.png": "/static/media/Lincoln.34bfe4ba.png",
     "static/media/Ms_logo.jpg": "/static/media/Ms_logo.1355dddb.jpg",
+    "static/media/Resume.svg": "/static/media/Resume.1aed08b3.svg",
     "static/media/SfdcAdmin.png": "/static/media/SfdcAdmin.60edc98a.png",
     "static/media/Uni_logo.png": "/static/media/Uni_logo.b19c9026.png",
     "static/media/clg_logo.png": "/static/media/clg_logo.5244639f.png",
@@ -40,9 +43,9 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc83c33b.js",
-    "static/js/2.973c93ff.chunk.js",
-    "static/css/main.75fc1881.chunk.css",
-    "static/js/main.d30b0993.chunk.js"
+    "static/js/runtime-main.94592b4e.js",
+    "static/js/2.06fcfd93.chunk.js",
+    "static/css/main.13527d27.chunk.css",
+    "static/js/main.6e52f2cd.chunk.js"
   ]
 }
