@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05b48e8c56499f6f07397ebb34292a16",
+    "revision": "f62066405d8cb2c5bea6e70175f2f93a",
     "url": "/index.html"
   },
   {
-    "revision": "46172699e6c45d5054ab",
-    "url": "/static/css/main.afcc2711.chunk.css"
+    "revision": "849b2a5b17fcc65c44e5",
+    "url": "/static/css/main.026ecde3.chunk.css"
   },
   {
-    "revision": "50a3281b59944af4542f",
-    "url": "/static/js/2.9759dd05.chunk.js"
+    "revision": "1faf3b2af4179a91a313",
+    "url": "/static/js/2.06fcfd93.chunk.js"
   },
   {
     "revision": "4096109a9ad5e20b45a711aa5aaf8108",
-    "url": "/static/js/2.9759dd05.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.06fcfd93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "759623094b2104c88254",
-    "url": "/static/js/3.2bcbcc64.chunk.js"
+    "revision": "995e82c0677863ce97ad",
+    "url": "/static/js/3.ba82f9d8.chunk.js"
   },
   {
-    "revision": "46172699e6c45d5054ab",
-    "url": "/static/js/main.d2884e6f.chunk.js"
+    "revision": "849b2a5b17fcc65c44e5",
+    "url": "/static/js/main.e61cb3f1.chunk.js"
   },
   {
-    "revision": "17d03a047e04a54eea8d",
-    "url": "/static/js/runtime-main.5aac47ae.js"
+    "revision": "6dc844db9e7e287ca612",
+    "url": "/static/js/runtime-main.94592b4e.js"
   },
   {
     "revision": "db498a4fbedf3b64dd9d8570f2b09ee7",
@@ -38,14 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0381b945ddb26d6a42adffe7f77ffcc7",
     "url": "/static/media/Aws.0381b945.png"
-  },
-  {
-    "revision": "7f415be6af571d081abaad46b212258a",
-    "url": "/static/media/Cognizant.7f415be6.png"
-  },
-  {
-    "revision": "a160a3d855af6a5b0ef3740aecae0fdf",
-    "url": "/static/media/Genpact.a160a3d8.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -202,6 +194,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6d4a36b92d2593f908601b80d95af7a9",
     "url": "/static/media/mobicure.6d4a36b9.png"
+  },
+  {
+    "revision": "048f5e58897eeb67e9ba36b89d10b1d5",
+    "url": "/static/media/popcornapps.048f5e58.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
